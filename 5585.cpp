@@ -1,5 +1,3 @@
-//boj 5585
-
 #include <bits/stdc++.h>
 using namespace std;
 
